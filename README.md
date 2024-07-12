@@ -1,5 +1,5 @@
 - I’m @DaddaRev
-- Interested in software programming, arcade games, blockchain smart contracts.
+- Interested in software programming, machine learning, android mobile app development
 - I’m learning coding languages and the basic engineering concepts at the university.
 - Currently working on IoT and Data processing projects.
 
